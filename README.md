@@ -1,2 +1,3 @@
 # hello-world
-learning to use gethub
+
+Im figuring shit out
